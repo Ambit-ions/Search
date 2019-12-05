@@ -34,14 +34,19 @@ https://blog.ploeh.dk/2016/09/26/decoupling-decisions-from-effects/
 Pure interactions <br>
 https://blog.ploeh.dk/2017/07/10/pure-interactions/
 
+Bret Victor - Inventing on Principle <br>
 https://vimeo.com/36579366
 
+Chicago Clojure - 2017-06-21 - Stuart Halloway on Repl Driven Development <br>
 https://vimeo.com/223309989
 
+Clubhouse - Project Management for Software Teams <br>
 https://clubhouse.io/
 
+Magic Ink: Information Software and the Graphical Interface <br>
 http://worrydream.com/MagicInk/
 
+Learnable Programming: Designing a programming system for understanding programs <br>
 http://worrydream.com/#!/LearnableProgramming
 
 https://imgur.com/a/t2Y3PQ3
