@@ -115,6 +115,9 @@ http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html
 You Could Have Invented Monads! (And Maybe You Already Have.) <br>
 http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html
 
+Monads for functional programming <br>
+http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf
+
 Two Kinds of Bootstrapping <br>
 http://www.lispcast.com/two-kinds-of-bootstrapping
 
@@ -150,5 +153,26 @@ https://lispcast.com/all-i-needed-for-fp-i-learned-in-high-school-algebra/
 
 How to Make Sense of Any Mess <br>
 http://www.howtomakesenseofanymess.com/
+
+School of Haskell <br>
+https://www.schoolofhaskell.com/
+
+Learn You a Haskell for Great Good! <br>
+http://learnyouahaskell.com/
+
+Haskell Programming From First Principles <br>
+https://haskellbook.com/
+
+Haskell from the Very Beginning <br>
+https://www.haskellfromtheverybeginning.com/
+
+The Haskell School of Expression: Learning Functional Programming through Multimedia <br>
+http://www.cs.yale.edu/homes/hudak/SOE/
+
+Haskell: the Craft of Functional Programming <br>
+http://www.haskellcraft.com/craft3e/Home.html
+
+Real World Haskell <br>
+http://book.realworldhaskell.org/
 
 https://gitlab.com/sundarj/nota/tree/master/docs/design
