@@ -80,4 +80,10 @@ http://www.lispcast.com/bootstrapping-mindset
 
 http://www.lispcast.com/the-most-important-idea-in-computer-science
 
+https://beautifulracket.com/appendix/why-racket-why-lisp.html
+
+http://www.gigamonkeys.com/book/introduction-why-lisp.html
+
+http://www.defmacro.org/ramblings/lisp.html
+
 https://gitlab.com/sundarj/nota/tree/master/docs/design
