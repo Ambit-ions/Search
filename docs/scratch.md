@@ -124,7 +124,7 @@ http://www.lispcast.com/the-most-important-idea-in-computer-science
 Why Racket? Why Lisp? <br>
 https://beautifulracket.com/appendix/why-racket-why-lisp.html
 
-1. Introduction: Why Lisp? <br>
+(1) Introduction: Why Lisp? <br>
 http://www.gigamonkeys.com/book/introduction-why-lisp.html
 
 The Nature of Lisp <br>
