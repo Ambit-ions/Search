@@ -16,16 +16,22 @@ http://conal.net/talks/denotational-design-bayhac-2014.pdf
 Talk material for LambdaJam 2014/2015 on denotational design  <br>
 https://github.com/conal/talk-2014-lambdajam-denotational-design
 
+Domain Driven Design <br>
 https://fsharpforfunandprofit.com/ddd/
 
+Thirteen ways of looking at a turtle <br>
 https://fsharpforfunandprofit.com/posts/13-ways-of-looking-at-a-turtle/
 
+Type Driven Development <br>
 https://blog.ploeh.dk/2015/08/10/type-driven-development/
 
+Functional architecture is Ports and Adapters <br>
 https://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/
 
+Decoupling decisions from effects <br>
 https://blog.ploeh.dk/2016/09/26/decoupling-decisions-from-effects/
 
+Pure interactions <br>
 https://blog.ploeh.dk/2017/07/10/pure-interactions/
 
 https://vimeo.com/36579366
