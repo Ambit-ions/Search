@@ -79,3 +79,5 @@ http://www.lispcast.com/two-kinds-of-bootstrapping
 http://www.lispcast.com/bootstrapping-mindset
 
 http://www.lispcast.com/the-most-important-idea-in-computer-science
+
+https://gitlab.com/sundarj/nota/tree/master/docs/design
