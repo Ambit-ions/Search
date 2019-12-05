@@ -67,20 +67,28 @@ http://www.lispcast.com/reasoning-about-code
 Is your programming language unreasonable? (or, why predictability is important) <br>
 https://fsharpforfunandprofit.com/posts/is-your-language-unreasonable/
 
+Global Mutable State <br>
 http://www.lispcast.com/global-mutable-state
 
+Why Haskell just works <br>
 https://wiki.haskell.org/Why_Haskell_just_works
 
+Haskell for Intermediate Programmers - Algebraic Data Types  <br>
 http://www.haskellforall.com/2012/01/haskell-for-mainstream-programmers.html
 
+Haskell for Mainstream Programmers - Code reuse <br>
 http://www.haskellforall.com/2011/12/haskell-for-mainstream-programmers-code.html
 
+The category design pattern <br>
 http://www.haskellforall.com/2012/08/the-category-design-pattern.html
 
+The functor design pattern <br>
 http://www.haskellforall.com/2012/09/the-functor-design-pattern.html
 
+Introduction to Haskell IO <br>
 http://www.haskellforall.com/2013/01/introduction-to-haskell-io.html
 
+Statements vs Expressions <br>
 http://www.haskellforall.com/2013/07/statements-vs-expressions.html
 
 http://www.haskellforall.com/2013/08/sometimes-less-is-more-in-language.html
