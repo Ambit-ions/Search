@@ -49,16 +49,22 @@ http://worrydream.com/MagicInk/
 Learnable Programming: Designing a programming system for understanding programs <br>
 http://worrydream.com/#!/LearnableProgramming
 
+Clojure philosophical principles <br>
 https://imgur.com/a/t2Y3PQ3
 
+Composable parts <br>
 http://www.lispcast.com/composable-parts
 
+Compositionality <br>
 https://feierabendprojekte.wordpress.com/2017/06/16/compositionality/
 
+More shell, less egg <br>
 http://www.leancrew.com/all-this/2011/12/more-shell-less-egg/
 
+Reasoning About Code <br>
 http://www.lispcast.com/reasoning-about-code
 
+Is your programming language unreasonable? (or, why predictability is important) <br>
 https://fsharpforfunandprofit.com/posts/is-your-language-unreasonable/
 
 http://www.lispcast.com/global-mutable-state
