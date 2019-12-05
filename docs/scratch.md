@@ -175,4 +175,13 @@ http://www.haskellcraft.com/craft3e/Home.html
 Real World Haskell <br>
 http://book.realworldhaskell.org/
 
+CSS has Weak Forms of Abstraction and Combination - LispCast <br>
+https://lispcast.com/css-abstraction-combination
+
+Separation of Presentation and Content - LispCast <br>
+https://lispcast.com/separation-of-presentation-and-content
+
+LESS has Better Forms of Abstraction than CSS - LispCast <br>
+https://lispcast.com/less-abstraction-combination
+
 https://gitlab.com/sundarj/nota/tree/master/docs/design
