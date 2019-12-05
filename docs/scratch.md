@@ -91,32 +91,52 @@ http://www.haskellforall.com/2013/01/introduction-to-haskell-io.html
 Statements vs Expressions <br>
 http://www.haskellforall.com/2013/07/statements-vs-expressions.html
 
+Sometimes less is more in language design <br>
 http://www.haskellforall.com/2013/08/sometimes-less-is-more-in-language.html
 
+Equational reasoning <br>
 http://www.haskellforall.com/2013/12/equational-reasoning.html
 
+Scalable program architectures <br>
 http://www.haskellforall.com/2014/04/scalable-program-architectures.html
 
+Equational reasoning at scale <br>
 http://www.haskellforall.com/2014/07/equational-reasoning-at-scale.html
 
+Algebraic side effects <br>
 http://www.haskellforall.com/2015/03/algebraic-side-effects.html
 
+Worst practices should be hard <br>
 http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html
 
+You Could Have Invented Monads! (And Maybe You Already Have.) <br>
 http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html
 
+Two Kinds of Bootstrapping <br>
 http://www.lispcast.com/two-kinds-of-bootstrapping
 
+The Bootstrapping Mindset <br>
 http://www.lispcast.com/bootstrapping-mindset
 
+The Most Important Idea in Computer Science <br>
 http://www.lispcast.com/the-most-important-idea-in-computer-science
 
+Why Racket? Why Lisp? <br>
 https://beautifulracket.com/appendix/why-racket-why-lisp.html
 
+1. Introduction: Why Lisp? <br>
 http://www.gigamonkeys.com/book/introduction-why-lisp.html
 
+The Nature of Lisp <br>
 http://www.defmacro.org/ramblings/lisp.html
 
+So yeah, about Clojure's syntax... <br>
 http://vvvvalvalval.github.io/posts/2018-01-06-so-yeah-about-clojures-syntax.html
+
+Programming Paradigms and the Procedural Paradox <br>
+https://lispcast.com/procedural-paradox/
+
+The Idea of Lisp <br>
+https://lispcast.com/idea-of-lisp/
 
 https://gitlab.com/sundarj/nota/tree/master/docs/design
