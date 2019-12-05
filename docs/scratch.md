@@ -1,13 +1,19 @@
+Hammock Driven Development - Rich Hickey <br>
 https://www.youtube.com/watch?v=f84n5oFoZBc
 
+Design, Composition and Performance <br>
 https://www.infoq.com/presentations/Design-Composition-Performance/
 
+Building composable abstractions <br>
 https://lispcast.com/building-composable-abstractions/
 
+Lambda Jam 2015 - Conal Elliott - Denotational Design: From Meanings To Programs <br>
 https://www.youtube.com/watch?v=bmKYiUOEo2A
 
+Denotational Design: from meanings to programs <br>
 http://conal.net/talks/denotational-design-bayhac-2014.pdf
 
+Talk material for LambdaJam 2014/2015 on denotational design  <br>
 https://github.com/conal/talk-2014-lambdajam-denotational-design
 
 https://fsharpforfunandprofit.com/ddd/
