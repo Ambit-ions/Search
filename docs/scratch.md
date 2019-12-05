@@ -139,4 +139,13 @@ https://lispcast.com/procedural-paradox/
 The Idea of Lisp <br>
 https://lispcast.com/idea-of-lisp/
 
+A Theory of Functional Programming <br>
+https://lispcast.com/lambdup-2017-theory-functional-programming/
+
+All I needed for FP I learned in High School Algebra <br>
+https://lispcast.com/all-i-needed-for-fp-i-learned-in-high-school-algebra/
+
+How to Make Sense of Any Mess <br>
+http://www.howtomakesenseofanymess.com/
+
 https://gitlab.com/sundarj/nota/tree/master/docs/design
