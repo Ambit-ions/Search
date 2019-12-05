@@ -40,6 +40,9 @@ https://vimeo.com/36579366
 Chicago Clojure - 2017-06-21 - Stuart Halloway on Repl Driven Development <br>
 https://vimeo.com/223309989
 
+REBL - Stuart Halloway <br>
+https://www.youtube.com/watch?v=c52QhiXsmyI
+
 Clubhouse - Project Management for Software Teams <br>
 https://clubhouse.io/
 
