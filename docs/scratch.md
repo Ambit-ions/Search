@@ -86,4 +86,6 @@ http://www.gigamonkeys.com/book/introduction-why-lisp.html
 
 http://www.defmacro.org/ramblings/lisp.html
 
+http://vvvvalvalval.github.io/posts/2018-01-06-so-yeah-about-clojures-syntax.html
+
 https://gitlab.com/sundarj/nota/tree/master/docs/design
