@@ -185,3 +185,6 @@ LESS has Better Forms of Abstraction than CSS - LispCast <br>
 https://lispcast.com/less-abstraction-combination
 
 https://gitlab.com/sundarj/nota/tree/master/docs/design
+
+OpenSearch description format
+https://developer.mozilla.org/en-US/docs/Web/OpenSearch
